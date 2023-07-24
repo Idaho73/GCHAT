@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox alignment="CENTER" prefHeight="750.0" prefWidth="400.0" spacing="20.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/17.0.2-ea" fx:controller="com.example.projekt.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <Button alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" prefHeight="28.0" prefWidth="159.0" text="Bejelentkezés">
+      <font>
+         <Font name="Berlin Sans FB" size="17.0" />
+      </font>
+   </Button>
+   <Button mnemonicParsing="false" prefHeight="5.0" prefWidth="161.0" text="Regisztráció">
+      <font>
+         <Font size="18.0" />
+      </font>
+   </Button>
+</VBox>
