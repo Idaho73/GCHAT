@@ -1,1 +1,1 @@
-It is a sever klient chat.
+It is a server client chat.
